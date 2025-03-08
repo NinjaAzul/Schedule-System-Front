@@ -48,7 +48,7 @@ O **Barber Shop - Schedule App** é uma aplicação web desenvolvida para gerenc
    # URL do backend
    NEXT_PUBLIC_API_URL='http://localhost:3333'
 
-   
+
    ```
 
 3. **Build o projeto:**
@@ -68,6 +68,7 @@ Este projeto foi desenvolvido por **Erick de Freitas Gonçalves** [Linkedin](htt
 
 ### Preview 🎥
 
+
 <h1 align="center">
-  <video src="./global/preview.mp4" width="640" height="480" controls autoplay loop muted allowfullscreen/>
+  <img src="./global/preview.gif" />
 </h1>
